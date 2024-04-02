@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1711773846108
+  login: 1711773768653
+money: '0'
+last-account-name: Aguuz222
+logoutlocation:
+  world: 34be7513-1b0e-462e-a8b7-25893c0e7be6
+  world-name: world
+  x: -70.30000001192093
+  y: 75.0
+  z: -271.30000001192093
+  yaw: 100.19843292236328
+  pitch: -71.99454498291016

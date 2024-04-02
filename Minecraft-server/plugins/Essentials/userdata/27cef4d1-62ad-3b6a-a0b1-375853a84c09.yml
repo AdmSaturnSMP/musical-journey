@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1711775789267
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712026323606
+  login: 1712024276896
+money: '0'
+last-account-name: Nachus_GC
+lastlocation:
+  world: e2a6382e-89d6-4cc5-b832-383a55a0e651
+  world-name: world
+  x: 14.894631829803215
+  y: 64.0
+  z: 130.1908700537388
+  yaw: -109.67218017578125
+  pitch: -34.94999313354492
+logoutlocation:
+  world: e2a6382e-89d6-4cc5-b832-383a55a0e651
+  world-name: world
+  x: 145.48907291418635
+  y: 67.0
+  z: 156.59799953541753
+  yaw: -122.19189453125
+  pitch: 3.8999476432800293

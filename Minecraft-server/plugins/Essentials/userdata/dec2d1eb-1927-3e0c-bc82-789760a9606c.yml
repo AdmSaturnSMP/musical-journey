@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1711748233352
+  login: 1711748004236
+money: '0'
+last-account-name: Owin51
+logoutlocation:
+  world: 7f51c538-e264-44fb-84e6-e5db019cf1e7
+  world-name: world
+  x: -0.699999988079071
+  y: 106.0
+  z: 48.649660696852884
+  yaw: -172.28021240234375
+  pitch: 34.49990463256836

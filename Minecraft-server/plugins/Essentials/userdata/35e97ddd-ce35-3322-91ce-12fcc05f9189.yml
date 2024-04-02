@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1711754942344
+  login: 1711754545335
+money: '0'
+last-account-name: Zentenario
+logoutlocation:
+  world: 34be7513-1b0e-462e-a8b7-25893c0e7be6
+  world-name: world
+  x: 200.23948160747315
+  y: 78.0
+  z: -331.69999998807907
+  yaw: 16.623859405517578
+  pitch: 8.805475234985352
+lastlocation:
+  world: 34be7513-1b0e-462e-a8b7-25893c0e7be6
+  world-name: world
+  x: 73.89223962779829
+  y: 59.18125193104339
+  z: -231.89618396730899
+  yaw: -121.5000228881836
+  pitch: 16.19999885559082

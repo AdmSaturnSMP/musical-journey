@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1711768776067
+  login: 1711766285164
+money: '0'
+last-account-name: xLegendaryZx
+lastlocation:
+  world: 34be7513-1b0e-462e-a8b7-25893c0e7be6
+  world-name: world
+  x: 0.4682379080822565
+  y: 79.0
+  z: -237.48578534717834
+  yaw: 124.5
+  pitch: -3.4500322341918945
+logoutlocation:
+  world: 34be7513-1b0e-462e-a8b7-25893c0e7be6
+  world-name: world
+  x: -322.85968643477105
+  y: 82.0
+  z: -529.8484453927977
+  yaw: 55.64946746826172
+  pitch: 13.949874877929688

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1711769929162
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712026299464
+  login: 1712023252099
+money: '0'
+last-account-name: AshOficialMC
+lastlocation:
+  world: e2a6382e-89d6-4cc5-b832-383a55a0e651
+  world-name: world
+  x: 9.5
+  y: 70.0
+  z: 5.5
+  yaw: -0.4386877417564392
+  pitch: -0.14622925221920013
+logoutlocation:
+  world: e2a6382e-89d6-4cc5-b832-383a55a0e651
+  world-name: world
+  x: -101.31375392910142
+  y: 212.0
+  z: 135.75536546185845
+  yaw: 127.90130615234375
+  pitch: 29.830846786499023
+homes:
+  aldea:
+    world: e2a6382e-89d6-4cc5-b832-383a55a0e651
+    world-name: world
+    x: -1328.3139495197095
+    y: 68.0
+    z: 1120.0852718196684
+    yaw: 154.4676971435547
+    pitch: 27.431903839111328

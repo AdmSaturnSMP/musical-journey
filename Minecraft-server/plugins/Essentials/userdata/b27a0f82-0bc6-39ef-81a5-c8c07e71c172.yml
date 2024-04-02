@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1711757588044
+  login: 1711757583404
+money: '0'
+last-account-name: aletsxde
+lastlocation:
+  world: 34be7513-1b0e-462e-a8b7-25893c0e7be6
+  world-name: world
+  x: -118.69999998807907
+  y: 79.41999998688698
+  z: -366.3289515107047
+  yaw: 57.149776458740234
+  pitch: 8.550114631652832
+logoutlocation:
+  world: 34be7513-1b0e-462e-a8b7-25893c0e7be6
+  world-name: world
+  x: 117.69999998807907
+  y: 77.0
+  z: -519.6999999880791
+  yaw: -4.644596576690674
+  pitch: 64.199951171875
